@@ -20,14 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
         display = findViewById(R.id.displayEditText);
         display.setShowSoftInputOnFocus(false);         //prevent keyboard from popping up
-
-        /*display.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if(getString(R.string.math_text).equals(display.getText().toString()))
-                    display.setText("");
-            }
-        });*/
     }
 
     private void updateText(String strToAdd){

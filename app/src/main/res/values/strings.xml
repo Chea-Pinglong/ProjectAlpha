@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Calculator</string>
+    <string name="app_name">Alpha_Math</string>
     <string name="button_0_text">0</string>
     <string name="button_dot_text">.</string>
     <string name="button_equal_text">=</string>
